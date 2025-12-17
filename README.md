@@ -1,6 +1,6 @@
 🏨 Booking Management System (BMS)
 
-A web-based Booking Management System built using Laravel, designed to manage hotel/resort room bookings with secure authentication, role-based access, and efficient booking workflows.
+A web-based Booking Management System built using Laravel, designed to manage any bookings with secure authentication, role-based access, and efficient booking workflows.
 
 🚀 Features
 
