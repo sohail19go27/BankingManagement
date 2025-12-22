@@ -30,12 +30,19 @@ Deployment: Render / Local Server
 
 ⚙️ Setup Instructions
 git clone https://github.com/your-username/booking-management-system.git
+
 cd booking-management-system
+
 composer install
+
 cp .env.example .env
+
 php artisan key:generate
+
 php artisan migrate
+
 php artisan serve
+
 
 📌 Project Purpose
 
