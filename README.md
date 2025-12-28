@@ -17,10 +17,15 @@ Secure form validation and session handling
 Responsive UI using Blade templates
 
 🛠 Tech Stack
+
 Backend: PHP (Laravel)
+
 Frontend: Blade, HTML, CSS, JavaScript
+
 Database: MySQL
+
 Authentication: Laravel Auth
+
 Deployment: Render / Local Server
 
 ⚙️ Setup Instructions
